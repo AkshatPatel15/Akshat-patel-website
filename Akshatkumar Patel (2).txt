@@ -1,0 +1,104 @@
+Akshat Patel
+Akshatkumar.a.patel@gmail.com | +1 (249) 989 1763 | Linkedin | English
+
+PROFESSIONAL SUMMARY
+	•	Over 4+ years of professional full stack development experience in IT industry with exposure to all the stages of Software Development Life Cycle (SDLC) including requirement analysis, design, implementation, testing, deployment, and maintenance of Web based, Client/Server Applications along with Enterprise and Distributed applications using Java and J2EE technologies.
+	•	Participated and involved in daily Scrum meetings, weekly sprint planning and retrospective using Jira as a tracking tool for the sprints.
+	•	Experience on advanced software development methodologies such as Agile/Scrum, Test Driven Development and Waterfall model.
+	•	Hands-on experience in developing Back-end using Core Java, Collections, JDBC, Spring, I/O, Exception Handling, Struts, Web Services, Hibernate, SQL, REST and SOAP.
+	•	Hands-on experience in developing Front-end UI using technologies such as HTML5, CSS3/4, Bootstrap, JavaScript, jQuery, Ajax, Tag Libraries.
+	•	Strong experience in Spring Framework modules such as Spring Core, DAO, IOC, MVC, ORM, AOP, Spring Boot, Spring Microservices, Spring Netflix components like Eureka, Ribbon.
+	•	Developed applications using Multithreading, Serialization, Externalization, Collections and Generics.
+	•	Used Spring Boot Actuator to monitor and manage the application in production environment.
+	•	Worked extensively with Core Java, Multithreading, Transactions, Exception Handling and Collections.
+	•	Management, Spring Data, Spring Batch, Spring Boot and Spring Cloud
+	•	Expertise in persistence frameworks such as Hibernate and JPA.
+	•	Experience in unit testing using Jasmine, JUnit, Mockito, Karma and Selenium.
+	•	Experience installing, managing, and configuring JBoss Enterprise Application (EAP), Web Logic Application Server, IBM WebSphere Application, Apache Tomcat Server.
+	•	Hands-on experience in using Object Relational Mapping (ORM) framework like Hibernate, JPA and JDBC.
+	•	Experience using GitHub version control tools to maintain project versions supported the applications through debugging and maintenance releases.
+	•	Experience in tracking and solving tickets for defects on bug reporting tool like Jira.
+	•	Strong knowledge of Integrated Development Environments (IDEs) like Eclipse, Net Beans, and IntelliJ
+
+TECHNICAL SKILLS
+Java/J2EE Technologies
+Java8/11/17
+Programming Languages
+Java JDK 1.7/1.8, SQL, PL/SQL.
+Application/Web Servers
+Oracle/BEA WebLogic 9.1/10.3, IBM WebSphere 7.0, Jboss, Tomcat, Bug tracking, Jenkins, AWS (Amazon Web Services).
+Frameworks
+Strut 2.0, Spring 4.0, Hibernate 5.0, JSF 2.0, iBatis, Flex
+UI Frameworks
+Angular, Bootstrap.
+IDEs
+Eclipse 3.x, IntelliJ, Visual Studio.
+Web Services
+JAX-WS, JAX-RPC, JAX-RS, SOAP, REST, SOAP UI.
+XML Tools
+JAXB, Apache Axis.
+Methodologies
+Agile, Scrum, SDLC.
+Modeling Tools
+UML, Rational Rose, Visio.
+Testing Technologies/tools
+JUnit, JMeter, HtmlUnit, TestNG, Selenium 2.0.
+Database Servers
+MongoDB, Oracle 10g/11G, DB2, SQL Server 2000/2005/2008, MySQL.
+Version Control
+CVS, GIT, Rational Clear Case.
+Build Tools
+ANT, Maven, Gradle.
+
+WORK EXPERIENCE
+Backend software developer
+Manulife | Toronto, ON, Canada                                                                                                           Jan  2024 – Present
+	•	Engineered a cloud-native ETL pipeline with scheduled workflows, delivering data transformations across 25+ integration points, enabling reliable data exchange between microservices and external systems within procurement processes.
+	•	Implemented an end-to-end integration workflow between Ivalua and Sirion, ensuring high-quality data transfer for supplier onboarding, contract governance, cost center allocation, and risk assessment models.
+	•	Added validation rules for DAD and Infor files, including data quality checks, master data alignment, and transformation mapping to ensure consistency across procurement and CLM systems.
+	•	Worked in Agile SDLC with participation in daily stand-ups, backlog grooming, sprint planning, and retrospectives, using Jira for sprint tracking and workflow management.
+	•	Developed Angular 9 components using TypeScript, and wrote unit tests using Jasmine & Karma for UI quality and regression coverage.
+	•	Built scalable Spring Boot microservices with REST APIs and Apache Kafka for real-time event streaming and asynchronous communication between distributed services.
+	•	Implemented Hystrix circuit breakers, Eureka service discovery, Ribbon load balancing, and Swagger-UI for API documentation and microservice onboarding.
+	•	Developed high-performance backend services using Java 8 features including streams, lambda expressions, functional interfaces, and collectors.
+	•	Implemented multi-threading and thread-safe execution using ExecutorService and Java concurrency utilities.
+	•	Monitored microservice health using Spring Boot Actuator and Spring Boot Admin, with integrated API monitoring and metrics dashboards.
+	•	Integrated Azure Kubernetes Service (AKS) for container orchestration and automated deployments; containerized applications using Docker.
+	•	Used Azure Key Vault (AKV) for secrets and credentials management to secure sensitive configurations.
+	•	Centralized logs using Azure Data Explorer (ADX) with Fluentd for real-time debugging, operational insights, and observability.
+	•	Secured API traffic using Azure API Management (APIM) and externally hosted APIs through Akamai.
+	•	Strengthened cloud security using Snyk Fix and GitGuardian for vulnerability scanning, dependency checks, and secret scanning in CI/CD pipelines.
+	•	Developed applications using Spring Data JPA & Hibernate, implementing CRUD operations, criteria API, caching, lazy loading, and transaction management.
+	•	Migrated data from Oracle & SQL Server to MongoDB, enabling horizontal scalability and improved performance for distributed workloads.
+	•	Delivered internal web applications using React.js and Flux architecture to improve team productivity.
+	•	Worked with Apigee for API management including policy enforcement, request transformation, and rate limiting.
+	•	Implemented global exception handling using Spring Advice, Spring AOP for transaction management, and application logging with Log4J2.
+	•	Wrote JUnit & Mockito unit tests, executed integration tests, and automated pipelines using Jenkins for CI/CD.
+	•	Performed JMeter load testing, created reusable test plans, and integrated performance testing into CI pipelines.
+	•	Used Maven for build automation and Git/Bitbucket for version control and code reviews.
+
+Java Developer
+Trevita InfoTech | India                                                                                                                        June 2021 – Jul 2022
+	•	Involved in the Design and Development of project modules, requirements, analyzed, and implemented business logic using Agile/Scrum Software Development methodology.
+	•	Used Java 8 features like lambda expressions for communicating between business layer and database, stream API for Bulk Data Operations on Collections using both streams and parallel streams.
+	•	Used Angular to structure JavaScript code in an MVC model (Model-View-Controller). Used D3JS to build a single-page application and used Angular 8, we created custom directives for re-usable components (multi-field form elements, background file uploads)
+	•	Defined and developed the application’s presentation layer in UI development with technologies like HTML 5, CSS4 ReactJS and JavaScript.
+	•	Developed Java 8 code from legacy COBOL code by deriving requirements from legacy functionality.
+	•	Implementing the Microservices architecture with Spring Boot based Microservices interacting through a combination of RESTful and Apache Kafka message brokers.
+	•	Worked on Camel-based integration middle-ware solution for Provisioning Services by design and Implementation of business logic, data processing routes using Apache Camel.
+	•	Implemented fail safe and circuit breaker patterns in Spring Boot, Microservices applications using Hystrix, configured Swagger-UI to register Microservices with Eureka server and monitored service health check from Spring Boot admin console and Spring Ribbon for load balancing.
+	•	Implemented pre-authentication and database security using Spring Security and securing application access and Spring Batch for scheduling, maintenance of batch jobs.
+	•	Implemented Spring ORM with Hibernate taking advantage of features like Annotation metadata, Auto wiring, and Collections to implement DAO layer with Hibernate Session Factory, HQL, SQL. Worked with several testing frameworks such as Junit and Mockito 
+	•	Used Hibernate concepts like Lazy loading, Dirty checking, Locking and Transactions.
+	•	Used Jenkins for code deploying by using plug-in to deploy to AWS. Experience with DevOps methodologies, implementing CI/CD Pipelines using toolsets like GIT, Jenkins, Chef and AWS. Experience in Integration of AWS with other applications infrastructure.
+	•	Used Maven for building and deploying the application in web/App servers. Worked on Docker open-source project by automating the deployment of applications inside software containers.
+	•	Created/managed Mongo DB/NoSQL collections. Developed Server-side automation using Node.js scripting and connecting different types of SQL and NoSQL databases. 
+	•	Used Drools engine for validating business rules before executing in runtime.
+	•	Contributes to policies, standards procedures, and documentation of process improvements to continually streamline the Identity and Access Management. Used Microservices with Spring Boot-based services interacting through Apache Kafka.
+	•	Used Git for version control and JIRA for bug tracking, project management and Maven as build tool. Worked closely with the QA team and fixed QA bugs as well as production issues with a quick turnaround time.
+	•	Environment: Java 8, Spring Boot, MVC, Spring Eureka, lambda streams, pipelines, predicates, Hibernate, AJAX, XML, Mongo DB, Agile, Design Patterns, Git, Apache Maven, Oracle WebLogic, HTML 5, XSLT, RESTful Services.
+
+EDUCATION
+Bachelor of Information Technology | Gujarat Technology University | Gujarat, India
+Big Data Analysis | Georgian College | Barrie, ON, CA
+Cloud computing | George Brown College | Toronto, ON, CA

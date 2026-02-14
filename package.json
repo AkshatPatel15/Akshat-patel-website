@@ -1,5 +1,5 @@
 {
-  "name": "devpatel-clone-rn",
+  "name": "AkshatPatelwebsite",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/lato": "^0.4.1",
+    "@expo-google-fonts/roboto": "^0.4.2",
+    "@expo/vector-icons": "^15.0.3",
     "expo": "~54.0.33",
+    "expo-font": "~14.0.11",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-web": "^0.21.0"
   },
   "devDependencies": {
     "@types/react": "~19.1.0",

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "devpatel-clone-rn",
-    "slug": "devpatel-clone-rn",
+    "name": "AkshatPatelwebsite",
+    "slug": "AkshatPatelwebsite",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": ["expo-font"]
   }
 }
