@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, StyleSheet, Linking, TouchableOpacity } from 'react-native';
+import { View, Text, StyleSheet, Linking, TouchableOpacity, Platform } from 'react-native';
 import { colors, fonts, layout } from '../styles/theme';
 import { content } from '../data/content';
 import { FontAwesome } from '@expo/vector-icons';
@@ -7,8 +7,25 @@ import { FontAwesome } from '@expo/vector-icons';
 export const Hero = () => {
     const { hero } = content;
 
+    const handleDownloadResume = () => {
+        // This requires the file to be correctly bundled. 
+        // For standard Expo web, requiring the asset works.
+        const resumeUri = require('../assets/Akshat_Patel_Resume.pdf');
+
+        if (Platform.OS === 'web') {
+            const link = document.createElement('a');
+            link.href = resumeUri;
+            link.download = 'Akshat_Patel_Resume.pdf';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        } else {
+            Linking.openURL(resumeUri);
+        }
+    };
+
     return (
-        <View style={styles.container} id="hello">
+        <View style={styles.container} id="home">
             <View style={styles.content}>
                 <View style={styles.textContent}>
                     <View style={styles.greetingBadge}>
@@ -33,6 +50,11 @@ export const Hero = () => {
                             </TouchableOpacity>
                         ))}
                     </View>
+
+                    <TouchableOpacity style={styles.resumeButton} onPress={handleDownloadResume}>
+                        <Text style={styles.resumeButtonText}>Download Resume</Text>
+                        <FontAwesome name="download" size={16} color="white" />
+                    </TouchableOpacity>
                 </View>
 
                 <View style={styles.bioContent}>
@@ -148,5 +170,21 @@ const styles = StyleSheet.create({
         fontFamily: 'cursive', // Not standard in RN, but good for web fallback
         fontSize: 32,
     },
-
+    resumeButton: {
+        marginTop: 30,
+        backgroundColor: colors.accent.primary,
+        paddingHorizontal: 20,
+        paddingVertical: 12,
+        borderRadius: 8,
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 10,
+        alignSelf: 'flex-start',
+    },
+    resumeButtonText: {
+        color: 'white',
+        fontFamily: fonts.heading,
+        fontWeight: 'bold',
+        fontSize: 14,
+    },
 });

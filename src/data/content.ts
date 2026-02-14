@@ -67,7 +67,7 @@ export const content = {
         ]
     },
     navLinks: [
-        { label: "HELLO", target: "hello" },
+        { label: "HOME", target: "home" },
         { label: "SKILLS", target: "skills" },
         { label: "EXPERIENCE", target: "experience" },
         { label: "EDUCATION", target: "education" },
